@@ -8,21 +8,22 @@
 请勿用于任何商业用途！请勿用于任何商业用途！请勿用于任何商业用途！
 ----------
 ## **v0.0.1** ##
+**2025.9.10**
 1. 找到想要下载的教材网址；
    
-    <img width=50% height=50% alt="Screenshot 2025-09-09 192815" src="https://github.com/user-attachments/assets/60ede449-ce31-4f7d-8f1f-c38ac13c2e03" />
+    <img width=50% height=50% alt="Step 1" src="https://github.com/user-attachments/assets/60ede449-ce31-4f7d-8f1f-c38ac13c2e03" />
 
 2. 按下F12，或右键选择检查打开检查页面；
    
-    <img width=50% height=50% alt="Screenshot 2025-09-09 192845" src="https://github.com/user-attachments/assets/77a09dab-5665-48f0-9934-c630fe7fd1da" />
+    <img width=50% height=50% alt="Step 2" src="https://github.com/user-attachments/assets/77a09dab-5665-48f0-9934-c630fe7fd1da" />
 
 3. 找到网络选项卡，在筛选页面选中文档，搜索栏输入pdf，点击刷新页面；
    
-    <img width=50% height=50% alt="Screenshot 2025-09-09 192845" src="https://github.com/user-attachments/assets/557f7ab1-1c1e-492e-8b8b-9caafb58ed81" />
+    <img width=50% height=50% alt="Step 3" src="https://github.com/user-attachments/assets/557f7ab1-1c1e-492e-8b8b-9caafb58ed81" />
 
 4. 找到此条目，右键复制链接URL
 
-    <img width=50% height=50% alt="Screenshot 2025-09-09 192902" src="https://github.com/user-attachments/assets/2abb25d9-3083-4f01-a465-70e059822e16" />
+    <img width=50% height=50% alt="Step 4" src="https://github.com/user-attachments/assets/2abb25d9-3083-4f01-a465-70e059822e16" />
 你应该能获得类似下面的链接
 
     `https://web-bd.ykt.eduyun.cn/pdfjs/2.15/web/viewer.html?hasCatalog=true&file=https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/bdc00134-465d-454b-a541-dcd0cec4d86e.pkg/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%20%E4%B8%80%E5%B9%B4%E7%BA%A7%20%E4%B8%8A%E5%86%8C_1756191804648.pdf&headers=%7B%22X-ND-AUTH%22:%22MAC%20id=%5C%227F938B205F876FC398BCDC5BCE419D07BAC7D3514723EF4763F4F219D7B1CDE42BCE28F96538C251D9BA0946970D61AB89BFB24E4A59158A%5C%22,nonce=%5C%221757505063698:9PG73263%5C%22,mac=%5C%22Ny9VZ5xPzaYVh240NELbGgww2v3wep/RJO6TrtlzoNE=%5C%22%22%7D`
