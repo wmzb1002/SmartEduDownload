@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-# v0.0.1
+# v0.0.1#1
+
+from urllib.parse import unquote
 
 import requests
-from urllib.parse import unquote
 
 url = input("请输入要下载的URL：")
 headers = {
