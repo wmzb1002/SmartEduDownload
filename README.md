@@ -21,15 +21,15 @@
 
    <img width=50% height=50% alt="Step 1" src="https://github.com/user-attachments/assets/60ede449-ce31-4f7d-8f1f-c38ac13c2e03" />
 
-2. 按下F12，或右键选择检查打开检查页面；
+2. 按下`F12`，或右键选择`检查`打开检查页面；
 
    <img width=50% height=50% alt="Step 2" src="https://github.com/user-attachments/assets/77a09dab-5665-48f0-9934-c630fe7fd1da" />
 
-3. 找到网络选项卡，在筛选页面选中文档，搜索栏输入pdf，点击刷新页面；
+3. 找到`网络`选项卡，在筛选页面选中`文档`，搜索栏输入`pdf`，点击刷新页面；
 
    <img width=50% height=50% alt="Step 3" src="https://github.com/user-attachments/assets/557f7ab1-1c1e-492e-8b8b-9caafb58ed81" />
 
-4. 找到此条目，右键复制链接URL
+4. 找到此条目，右键复制`链接URL`
 
    <img width=50% height=50% alt="Step 4" src="https://github.com/user-attachments/assets/2abb25d9-3083-4f01-a465-70e059822e16" />
 
