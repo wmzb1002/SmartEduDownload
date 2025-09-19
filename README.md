@@ -35,6 +35,8 @@
 
    你应该能获得类似下面的链接
 
+       https://x-edu-pdfjs-test.ykt.eduyun.cn/generic/web/viewer.html?isPreview=1&hasCatalog=true&file=https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/453025ca-58bd-442e-8543-5ef5222d50c6.pkg/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%E8%8B%B1%E8%AF%AD%20%E5%85%AB%E5%B9%B4%E7%BA%A7%20%E4%B8%8A%E5%86%8C_1756191699270.pdf&headers=%7B%22X-ND-AUTH%22:%22MAC%20id=%5C%227F938B205F876FC398BCDC5BCE419D07BAC7D3514723EF4763F4F219D7B1CDE42BCE28F96538C251D9BA0946970D61AB89BFB24E4A59158A%5C%22,nonce=%5C%221757682344014:XKDS62SK%5C%22,mac=%5C%22HtzTlcWhw0X1CGJohund6hP9agiEr+GvtBijC3BrOjU=%5C%22%22%7D
+
    截取其中`file=`后面`&headers`前面的内容
 
    应该为类似这样
