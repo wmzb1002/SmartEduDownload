@@ -10,12 +10,54 @@
 
 **请勿用于任何商业用途！请勿用于任何商业用途！请勿用于任何商业用途！**
 
-----------  
+-----------
+
+## **v0.0.2**
+
+**2025.9.26**
+
+此次更新内容：
+
+- 添加对输入URL中headers参数的解析支持
+
+- 使用urllib替代requests库发起HTTP请求
+
+- 实现文件流式下载，每次读取1024字节数据
+
+- 支持从URL中自动提取默认文件名
+
+- 增加异常处理机制，提升程序健壮性
+
+- 添加下载完成后的3秒延时自动退出功能
+
+1. 找到想要下载的教材网址；
+
+   <img width=50% height=50% alt="Step 1" src="https://github.com/user-attachments/assets/60ede449-ce31-4f7d-8f1f-c38ac13c2e03" />
+
+2. 按下`F12`，或右键选择`检查`打开检查页面；
+
+   <img width=50% height=50% alt="Step 2" src="https://github.com/user-attachments/assets/77a09dab-5665-48f0-9934-c630fe7fd1da" />
+
+3. 找到`网络`选项卡，在筛选页面选中`文档`，搜索栏输入`pdf`，点击刷新页面；
+
+   <img width=50% height=50% alt="Step 3" src="https://github.com/user-attachments/assets/557f7ab1-1c1e-492e-8b8b-9caafb58ed81" />
+
+4. 找到此条目，右键复制`链接URL`
+
+   <img width=50% height=50% alt="Step 4" src="https://github.com/user-attachments/assets/2abb25d9-3083-4f01-a465-70e059822e16" />
+
+   你应该能获得类似下面的链接
+
+       https://x-edu-pdfjs-test.ykt.eduyun.cn/generic/web/viewer.html?isPreview=1&hasCatalog=true&file=https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/453025ca-58bd-442e-8543-5ef5222d50c6.pkg/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%E8%8B%B1%E8%AF%AD%20%E5%85%AB%E5%B9%B4%E7%BA%A7%20%E4%B8%8A%E5%86%8C_1756191699270.pdf&headers=%7B%22X-ND-AUTH%22:%22MAC%20id=%5C%227F938B205F876FC398BCDC5BCE419D07BAC7D3514723EF4763F4F219D7B1CDE42BCE28F96538C251D9BA0946970D61AB89BFB24E4A59158A%5C%22,nonce=%5C%221757682344014:XKDS62SK%5C%22,mac=%5C%22HtzTlcWhw0X1CGJohund6hP9agiEr+GvtBijC3BrOjU=%5C%22%22%7D
+
+输入到程序中，完结，撒花！✿✿ヽ(°▽°)ノ✿
+
+-----------
 
 ## **v0.0.1**
 
 **2025.9.10**  
-**注：#1版本已于2025.9.19失效，请移步后续版本或新版本！**
+**注：#2版本已于2025.9.26失效，请移步后续版本或新版本！**
 
 1. 找到想要下载的教材网址；
 
